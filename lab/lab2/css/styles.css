@@ -5,7 +5,7 @@ file name: styles.css
 */
 
 /* CSS reset */
-body, header, nav, main, footer, img, h1 h3, ul, aside, figure, figcaption {
+body, header, nav, main, footer, img, h1 h3, ul, aside, figure, figcaption, video {
 
 padding: 0;
 border: 0;
